@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity 6 City Organizer\bin\Debug\Activity 6 City Organizer.exe.config
+C:\Users\HP\source\repos\Activity 6 City Organizer\bin\Debug\Activity 6 City Organizer.exe
+C:\Users\HP\source\repos\Activity 6 City Organizer\bin\Debug\Activity 6 City Organizer.pdb
+C:\Users\HP\source\repos\Activity 6 City Organizer\obj\Debug\Activity 6 City Organizer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity 6 City Organizer\obj\Debug\Activity 6 City Organizer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity 6 City Organizer\obj\Debug\Activity 6 City Organizer.exe
+C:\Users\HP\source\repos\Activity 6 City Organizer\obj\Debug\Activity 6 City Organizer.pdb
